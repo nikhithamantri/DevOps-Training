@@ -1,2 +1,3 @@
 echo " devops training"
 echo "Adding new line"
+echo "Demo to find diff local and remote"
