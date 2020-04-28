@@ -1,1 +1,2 @@
 echo " devops training"
+echo " Brance rules set"
