@@ -1,4 +1,7 @@
 echo " devops training"
+
+echo " Brance rules set"
+
 echo "Adding new line"
 echo "Demo to find diff local and remotes"
 adding new line here
@@ -8,3 +11,4 @@ new2 line
 
 Demo new
 branch rules
+
